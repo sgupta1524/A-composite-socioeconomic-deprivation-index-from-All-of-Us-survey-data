@@ -1,5 +1,3 @@
-# aou-sed-gwas
-
 Individual-level Social and Economic Determinants (SED) index construction
 from the **All of Us** Controlled Tier Dataset v7, for use as covariates in
 downstream GWAS and PRS analyses.
